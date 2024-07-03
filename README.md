@@ -7,7 +7,7 @@ Potato vigor, an important agronomic trait, is heavily influenced by the field o
 - Metadata tables.
 - Codes used for RF modeling, data analysis, and visualization.
 
-# Notes
+## Notes
 - Field K (whole name: Kollumerwaard-SPNA) is the same field as Field S. The name may appear differently in the original codes than in the manuscript.
 - In the metadata tables, the column `Field_DAP` is the original CSA; the column `Field_DAP_method2` is the Scaled CSA.
 - In 2019, the last measuring dates were chosen, namely 52 DAP for Field M, 48 DAP for Field K, and 50 DAP for Field V. In 2020, the second last measuring dates were chosen, namely 47 DAP for Field M, 47 DAP for Field K, and 49 DAP for Field V.
